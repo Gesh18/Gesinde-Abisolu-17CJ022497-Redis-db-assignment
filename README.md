@@ -1,1 +1,2 @@
-# Gesinde-Abisolu-17CJ022497-Redis-db-assignment
+# redis-db
+Redis assignment for CEN 414
